@@ -1,0 +1,13 @@
+{
+  "name": "rando",
+  "version": "1.0.0",
+  "main": "app.js",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.3",
+  },
+  "scripts": {
+    "start": "node app.js",
+    "heroku-postbuild": "cd client && npm install && npm run build"
+  }
+}
