@@ -9,7 +9,6 @@
       <change beforePath="$PROJECT_DIR$/client/auth-server/authorization_code/public/index.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/client/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/src/components/Authentication.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/Authentication.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,7 +16,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/client" />
   </component>
   <component name="ProjectId" id="1bVpSbZsEnbY35K3Xq0b6hdufGh" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -42,7 +41,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1588727115642</updated>
-      <workItem from="1588727117255" duration="479000" />
+      <workItem from="1588727117255" duration="548000" />
     </task>
     <servers />
   </component>
