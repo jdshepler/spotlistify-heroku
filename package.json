@@ -1,8 +1,10 @@
 {
   "name": "spotlistify heroku",
   "version": "1.0.0",
+  "engines": {
+    "node": "13.9.x"
+  },
   "main": "app.js",
-  "license": "MIT",
   "dependencies": {
     "cookie-parser": "^1.4.5",
     "cors": "^2.8.5",
