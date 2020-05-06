@@ -6,6 +6,11 @@
  * For more information, read
  * https://developer.spotify.com/web-api/authorization-guide/#authorization_code_flow
  */
+// import express from 'express';
+// import request from 'request';
+// import cors from 'cors';
+// import querystring from 'querystring';
+// import cookieParser from 'cookie-parser';
 const express = require('express'); // Express web server framework
 const request = require('request'); // "Request" library
 const cors = require('cors');
