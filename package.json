@@ -1,5 +1,5 @@
 {
-  "name": "spotlistify heroku",
+  "name": "spotlistify",
   "version": "1.0.0",
   "engines": {
     "node": "13.9.x"

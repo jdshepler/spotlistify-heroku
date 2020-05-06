@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cf755542-2550-492c-a880-daafcb03f2bb" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client" beforeDir="false" afterPath="$PROJECT_DIR$/client" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/.idea/dictionaries/Jordan.xml" beforeDir="false" afterPath="$PROJECT_DIR$/client/.idea/dictionaries/Jordan.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/client/.idea/workspace.xml" afterDir="false" />
@@ -43,7 +42,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1588727115642</updated>
-      <workItem from="1588727117255" duration="1242000" />
+      <workItem from="1588727117255" duration="1398000" />
     </task>
     <servers />
   </component>
